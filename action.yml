@@ -1,4 +1,4 @@
-name: "Update step"
+da35dddc4ced5d8e1ba1d7cebfb56755eac8e0a4name: "Update step"
 description: "Update the course repository when the learner completes a step."
 inputs:
   token:
